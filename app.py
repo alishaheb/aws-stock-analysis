@@ -16,7 +16,7 @@ import time  # Importing the time module for tracking
 
 app = Flask(__name__)
 yf.pdr_override()
-
+a=1
 
 def global_variable_definition():
     global analyze_storage
