@@ -3,4 +3,6 @@ This project implements a cloud-native API for financial risk assessment and pro
 
 ![Alt text](https://github.com/alishaheb/aws-stock-analysis/raw/af186810aff54171fea7631ddfd8213cf9ff8d83/diagram.jpg)
 
+![Alt text](https://github.com/alishaheb/aws-stock-analysis/blob/7819951eeda275c9b214598c09144a321e80cc34/aws.png)
+
 
